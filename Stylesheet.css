@@ -1,3 +1,13 @@
 .title {
-  color:blue;
+  color: #02ccba;
+}
+header {
+height: 65px;
+width: 100%;
+background-color: rgba(65, 133, 146, 0.9);
+position: fixed;
+top: 0;
+}
+.photo{
+  padding top:180px
 }
